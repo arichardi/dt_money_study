@@ -14,6 +14,8 @@ yarn create react-app --template typescript
 All application was made thinking about acessibility for all kind of audiences
 On GlobalStyles you can see the details
 
+## Components
+
 ## Libraries and ressources
 
 ´Styled components´
